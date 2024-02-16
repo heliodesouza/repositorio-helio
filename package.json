@@ -2,7 +2,7 @@
   "name": "portifolio_react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://heliodesouza.github.io/repositorio-helio",
+  "homepage": "https://heliodesouza.github.io/repositorio-helio/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
