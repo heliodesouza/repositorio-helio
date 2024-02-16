@@ -5,8 +5,8 @@ const AboutContainer  = () => {
         <section className="about-container">
             <h2 id="style">Sobre</h2>
             <p>
-             Casado, estou com 39 anos, no momento estou cursando Análise e Desenvolvimento de Sistemas 3º
-             período, além disso estou estudando algumas tecnologias com foco em criação de Softwares e aplicações da Web.
+             Sou formado em  Análise e Desenvolvimento de Sistemas pela Universidade UNOPAR/PITÀGORAS 
+             onde obtive conhecimento de computação e tecnologias com foco em criação de Softwares e aplicações da Web.
             
             </p>
         </section>
