@@ -4,6 +4,7 @@ import {
     DiJsBadge,
     DiNodejsSmall,
     DiReact,
+    DiDatabase
   } from "react-icons/di";
   
   import "../styles/components/technologiescontainers.sass";
@@ -22,6 +23,9 @@ import {
     texto:<p>O Node é capaz de interpretar um código JavaScript, igual ao que o navegador faz.</p> },
     { id: "react", name: "React", icon: <DiReact />,
     texto:<p>o React cria aplicações web para serem executadas em navegadores, sejam eles para desktop, mobile ou qualquer outro dispositivo.</p> },
+    { id: "database", name: "Banco de Dados", icon: <DiDatabase />,
+    texto:<p>Repositórios de dados que podem ser customizados para armazenar informações estruturadas por meio de registros
+      Tenho estudado Análise de Dados e ETL usando Python.</p> },
   ];
 
 const TechnologiesContainer = () => {
