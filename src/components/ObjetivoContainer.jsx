@@ -3,7 +3,7 @@ const ObjetivoContainer = () => {
         <section className="objetivo-container">
             <h2>Objetivo</h2>
             <p>
-                Procuro  vaga para desenvolvedor Front-end, analista de dados ou áreas afins.
+                Procuro  vaga para desenvolvedor Front-end.
             </p>
         </section>
 
