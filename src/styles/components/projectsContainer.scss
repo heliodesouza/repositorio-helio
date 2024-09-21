@@ -1,0 +1,40 @@
+.projects-container {
+  // Estilizando a seção geral do container
+  padding: 2rem;
+  background-color: #2e0c0c; // Fundo suave
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+  h2 {
+    font-size: 2rem;
+    color: white; // Título mais escuro
+    margin-bottom: 1.5rem;
+    text-align: center; // Centralizando o título
+  }
+
+  p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #555; // Texto levemente escurecido
+    margin-bottom: 1.5rem;
+    text-align: justify; // Justificar o texto
+  }
+
+  
+
+  .btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #007bff; // Botão com cor azul
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1rem;
+    text-align: center;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #0056b3; // Cor mais escura ao passar o mouse
+    }
+  }
+}
